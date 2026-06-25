@@ -28,7 +28,8 @@
 wos_SvgWidgets provides a splendid, fully customizable SVG editor component, originally developed for GenieSolutions. Where code meets canvas in perfect harmony, this component allows you to integrate powerful vector drawing capabilities directly into your 4D applications.
 
 All underlying sub-widgets are exposed and available, giving you the flexibility to build your own custom vector drawing tools.
-- [**wos_SvgWidgets SRC**](https://github.com/protee/wos_SvgWidgets_SRC) – SOURCE CODE.
+
+SOURCE available here [**wos_SvgWidgets.4dbase**](https://github.com/protee/wos_SvgWidgets.4dbase)
 
 ---
 
